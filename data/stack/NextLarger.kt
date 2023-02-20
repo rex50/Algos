@@ -4,8 +4,8 @@ import java.util.*
 
 fun main() {
     val input = listOf(1,3,2,4)
-    println("Next Largest to Right: ${input.nextLargestToRight()}")
-    println("Next Largest to Left: ${input.nextLargestToLeft()}")
+    println("Next Largest to Right: ${input.nextLargerToRight()}")
+    println("Next Largest to Left: ${input.nextLargerToLeft()}")
 }
 
 /**
@@ -14,7 +14,7 @@ fun main() {
  * 
  * If an element has no greater on the left side, print -1 
  */
-fun List<Int>.nextLargestToRight(): List<Int> {
+fun List<Int>.nextLargerToRight(): List<Int> {
     val result = arrayListOf<Int>()
     val stack = Stack<Int>()
     var current: Int
@@ -43,7 +43,7 @@ fun List<Int>.nextLargestToRight(): List<Int> {
  * 
  * If an element has no greater on the left side, print -1 
  */
-fun List<Int>.nextLargestToLeft(): List<Int> {
+fun List<Int>.nextLargerToLeft(): List<Int> {
     val result = arrayListOf<Int>()
     val stack = Stack<Int>()
     var current: Int
