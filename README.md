@@ -1,6 +1,6 @@
-# 🔥 Algos
+# 🔥 AlgosKt
 
-A set of Algorithms and Data structures question I'm trying to solve and learn by practicing for better problem solving (let's see how it goes🤞)
+A set of Algorithms and Data structures question which I'm trying to solve and learn by practicing for better problem solving skills (let's see how it goes 🤞). All problems are solved using Kotlin language.
 
 ### Contents
   
