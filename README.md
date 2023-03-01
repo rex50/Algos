@@ -11,6 +11,8 @@ A set of Algorithms and Data structures question which I'm trying to solve and l
   - [NextSmaller](https://github.com/rex50/Algos/blob/main/data/stack/NextSmaller.kt)
     - Given an array of integers, find the closest (not considering distance, but value) smaller on left of every element.
     - Given an array of integers, find the closest (not considering distance, but value) smaller on right of every element.
+  - [StockSpanProblem](https://github.com/rex50/Algos/blob/main/data/stack/StockSpanProblem.kt)
+    - The stock span problem is a financial problem where we have a series of n daily price quotes for a stock and we need to calculate span of stock’s price for all n days
     
 
 
