@@ -5,7 +5,7 @@ A set of Algorithms and Data structures question which I'm trying to solve and l
 ### Contents
   
 - [Stack](https://github.com/rex50/Algos/tree/main/data/stack)
-  - [NextLarger](https://github.com/rex50/Algos/blob/main/data/stack/NextLargest.kt)
+  - [NextLarger](https://github.com/rex50/Algos/blob/main/data/stack/NextLarger.kt)
     - Given an array of integers, find the closest (not considering distance, but value) greater on right of every element.
     - Given an array of integers, find the closest (not considering distance, but value) greater on left of every element.
   - [NextSmaller](https://github.com/rex50/Algos/blob/main/data/stack/NextSmaller.kt)
